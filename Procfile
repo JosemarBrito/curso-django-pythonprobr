@@ -1,0 +1,1 @@
+web: gunicorn pybrito.wisy --log-file -
