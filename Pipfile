@@ -8,6 +8,8 @@ flake8 = "*"
 
 [packages]
 django = "*"
+heroku = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
