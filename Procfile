@@ -1,1 +1,1 @@
-web: gunicorn pybrito.wisy --log-file -
+web: gunicorn pybrito.wsgi --log-file -
