@@ -10,6 +10,7 @@ flake8 = "*"
 django = "*"
 heroku = "*"
 gunicorn = "*"
+update = "*"
 
 [requires]
 python_version = "3.8"
