@@ -4,5 +4,13 @@ Repositório criado para aprendizagem com Framework Django na criação de pagin
 
 Aplicação disponivel em https://pybritoscode.herokuapp.com/
 
+Repositório no [Git-Hub](https://github.com/JosemarBrito/curso-django-pythonprobr)
+
+Pagina de Criação [Django](https://pybritoscode.herokuapp.com/)
+
+
 [![Build Status](https://travis-ci.org/JosemarBrito/curso-django-pythonprobr.svg?branch=main)](https://travis-ci.org/JosemarBrito/curso-django-pythonprobr)
 [![codecov](https://codecov.io/gh/JosemarBrito/curso-django-pythonprobr/branch/main/graph/badge.svg?token=B1P6KGBUKQ)](undefined)
+[![Updates](https://pyup.io/repos/github/JosemarBrito/curso-django-pythonprobr/shield.svg)](https://pyup.io/repos/github/JosemarBrito/curso-django-pythonprobr/)
+[![Python 3](https://pyup.io/repos/github/JosemarBrito/curso-django-pythonprobr/python-3-shield.svg)](https://pyup.io/repos/github/JosemarBrito/curso-django-pythonprobr/)
+
