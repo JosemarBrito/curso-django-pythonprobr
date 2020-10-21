@@ -13,9 +13,8 @@ env:
 install:
   - pip install pipenv
   - pipenv sync -d
-  - pipenv install flake8
   - cp contrib/env-sample .env
-
+  - pipenv install flake8
 script:
   - pipenv run flake8 .
   - pipenv run pytest --cov=pybrito
