@@ -14,6 +14,7 @@ install:
   - pip install pipenv
   - pipenv sync -d
   - pipenv install flake8
+  - cp contrib/env-sample .env
 
 script:
   - pipenv run flake8 .
