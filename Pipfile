@@ -17,6 +17,7 @@ update = "*"
 pytest-django = "*"
 pytest = "*"
 python-decouple = "*"
+autocomplete = "*"
 
 [requires]
 python_version = "3.8"
