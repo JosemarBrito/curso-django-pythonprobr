@@ -208,10 +208,10 @@
         },
         "style": {
             "hashes": [
-                "sha256:6485a4bcb84629341a5fd1587fe3ac4887daa4741f0c8a1d01b9c3c8a263afe7",
-                "sha256:8eb365fc15039b19b728bd4e6e85fb7daf24e7aeeec6a15a666f97484c564005"
+                "sha256:48deb552717e4a38e607e5c667b89f07f4eca5bce94dbaabb66707bf395a2eb6",
+                "sha256:d0ad01f3688b83e7fcbb305123df26f7018adf41babe2c12e4b9a68d4e598eb5"
             ],
-            "version": "==1.1.0"
+            "version": "==1.1.6"
         },
         "toml": {
             "hashes": [
