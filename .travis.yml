@@ -3,21 +3,21 @@ dist: xenial
 sudo: true
 
 python:
-  - 3.8
+    - 3.8
 
 env:
-  global:
-    - PIPENV_VENV_IN_PROJECT=1
-    - PIPENV_IGNORE_VIRTUALENVS=1
+    global:
+        - PIPENV_VENV_IN_PROJECT=1
+        - PIPENV_IGNORE_VIRTUALENVS=1
 
 install:
-  - pip install pipenv
-  - pipenv sync -d
-  - cp contrib/env-sample .env
-  - pipenv install flake8
+    - pip install pipenv
+    - pipenv sync -d
+    - cp contrib/env-sample .env
+    - pipenv install flake8
 script:
-  - pipenv run flake8 .
-  - pipenv run pytest --cov=pybrito
+    - pipenv run flake8 .
+    - pipenv run pytest --cov=pybrito
 
 after_success:
-  - pipenv run codecov
+    - pipenv run codecov
