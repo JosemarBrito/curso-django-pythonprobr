@@ -14,5 +14,3 @@ Pagina de Criação [Django](https://pybritoscode.herokuapp.com/)
 [![Updates](https://pyup.io/repos/github/JosemarBrito/curso-django-pythonprobr/shield.svg)](https://pyup.io/repos/github/JosemarBrito/curso-django-pythonprobr/)
 [![Python 3](https://pyup.io/repos/github/JosemarBrito/curso-django-pythonprobr/python-3-shield.svg)](https://pyup.io/repos/github/JosemarBrito/curso-django-pythonprobr/)
 
-Ate aqui foi feito configurações
-Ate Aqui
