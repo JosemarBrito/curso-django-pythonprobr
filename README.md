@@ -14,3 +14,9 @@ Pagina de Criação [Django](https://pybritoscode.herokuapp.com/)
 [![Updates](https://pyup.io/repos/github/JosemarBrito/curso-django-pythonprobr/shield.svg)](https://pyup.io/repos/github/JosemarBrito/curso-django-pythonprobr/)
 [![Python 3](https://pyup.io/repos/github/JosemarBrito/curso-django-pythonprobr/python-3-shield.svg)](https://pyup.io/repos/github/JosemarBrito/curso-django-pythonprobr/)
 
+
+Instalado GitHub Action apartir do repositorio
+
+[PythonPro-Website](https://github.com/pythonprobr/pythonpro-website/blob/master/.github/workflows/django_project.yml)
+
+Utilizando Github/workflows
